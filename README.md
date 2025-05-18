@@ -2,9 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange) ![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-lightgrey) ![Stegano](https://img.shields.io/badge/Stegano-Steganografia-green) ![Licenza MIT](https://img.shields.io/badge/license-MIT-green)
 
-Benvenuto nel mio progetto GitHub! 🎉 Questa galleria interattiva di immagini non è solo un archivio visivo, ma un viaggio nel misterioso mondo della steganografia, una tecnica che permette di celare messaggi segreti all’interno di semplici immagini.
+Benvenuto nel mio progetto GitHub! 🎉 Sono Samuele, uno studente DevOps appassionato di tecnologia e del mondo informatico.Questo progetto sfrutta la potenza dell’informatica per esplorare la steganografia digitale, una tecnica che permette di nascondere informazioni all’interno di immagini senza modificarne l’aspetto visibile.
 
-La steganografia è un’arte antica. Dai messaggi nascosti dagli antichi Greci sotto strati di cera ai codici invisibili usati nella Seconda Guerra Mondiale, questa tecnica è sempre stata un metodo ingegnoso per comunicare senza destare sospetti. Oggi, nel mondo digitale, possiamo sfruttare la potenza delle immagini per trasmettere informazioni invisibili, ma leggibili solo a chi conosce il segreto.
+Storicamente utilizzata per comunicazioni segrete, la steganografia ha attraversato i secoli, dai messaggi celati dagli antichi Greci alle strategie crittografiche moderne.Tecnicamente, il progetto implementa la modifica dei bit meno significativi (LSB - Least Significant Bit), una tecnica avanzata che altera i singoli pixel dell’immagine per incorporare dati nascosti.
+In pratica, una piccola variazione nel valore di un pixel, impercettibile all’occhio umano, consente di codificare informazioni senza compromettere la qualità visiva dell’immagine.
 
 ✨ Funzionalità Principali
 🔹 Esplora le immagini in modalità griglia o presentazione 
