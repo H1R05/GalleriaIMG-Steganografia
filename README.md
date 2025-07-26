@@ -60,8 +60,6 @@ lsb.hide("input.png", "Messaggio segreto").save("output.png")
 hidden_message = lsb.reveal("output.png")
 print("Messaggio estratto:", hidden_message)
 ```
-🔗 Contribuisci e Espandi il Mistero
-💡 Vuoi migliorare il progetto? Apri una Issue o una Pull Request su GitHub! 📜 Licenza: MIT – Libero di esplorare, migliorare e condividere.
 
 👨‍💻 **Creato da:** [Samuele](https://github.com/H1R05)  
 
