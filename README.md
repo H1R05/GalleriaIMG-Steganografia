@@ -62,5 +62,3 @@ print("Messaggio estratto:", hidden_message)
 ```
 
 👨‍💻 **Creato da:** [Samuele](https://github.com/H1R05)  
-
-✨ Se ti è piaciuto il progetto, lascia una ⭐ su GitHub! 🕵️‍♂️
