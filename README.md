@@ -1,4 +1,4 @@
-# 🖼️ Galleria Immagini con Steganografia - Project Work DevOps 2025
+# Galleria Immagini con Steganografia - Project Work DevOps 2025
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange) ![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-lightgrey) ![Stegano](https://img.shields.io/badge/Stegano-Steganografia-green) ![Licenza MIT](https://img.shields.io/badge/license-MIT-green)
 
