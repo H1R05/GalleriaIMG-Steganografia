@@ -24,7 +24,7 @@ Anteprima dell'Interfaccia
 ![Anteprima GUI](./screenshots/ScreenshotGUI2025.png)
 > Un'interfaccia pulita e intuitiva basata su Tkinter + ttkbootstrap, perfetta per esplorare il mondo nascosto della steganografia.
 
-Tecnologie Utilizzate
+Tecnologie Utilizzate: 
 🔹 Python 3.x 
 🔹 Tkinter + ttkbootstrap (GUI moderna e responsiva) 
 🔹 Pillow (gestione immagini) 
