@@ -7,7 +7,7 @@ Benvenuto nel mio progetto GitHub! Sono Samuele, uno studente DevOps appassionat
 Storicamente utilizzata per comunicazioni segrete, la steganografia ha attraversato i secoli, dai messaggi celati dagli antichi Greci alle strategie crittografiche moderne.Tecnicamente, il progetto implementa la modifica dei bit meno significativi (LSB - Least Significant Bit), una tecnica avanzata che altera i singoli pixel dell’immagine per incorporare dati nascosti.
 In pratica, una piccola variazione nel valore di un pixel, impercettibile all’occhio umano, consente di codificare informazioni senza compromettere la qualità visiva dell’immagine.
 
-Funzionalità Principali
+Funzionalità Principali:
 🔹 Esplora le immagini in modalità griglia o presentazione 
 🔹 Ricerca dinamica per trovare rapidamente i file 
 🔹 Filtri avanzati per selezionare formato e caratteristiche 
@@ -15,7 +15,7 @@ Funzionalità Principali
 
 Nascondi un messaggio in un'immagine (solo PNG)
 
-🔎 Estrai un messaggio segreto da un'immagine
+Estrai un messaggio segreto da un'immagine
 
 🔹 Interfaccia elegante con ttkbootstrap e supporto modalità scura 
 🔹 Navigazione intuitiva con scorciatoie da tastiera (← e →)
