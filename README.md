@@ -24,14 +24,13 @@ Anteprima dell'Interfaccia
 ![Anteprima GUI](./screenshots/ScreenshotGUI2025.png)
 > Un'interfaccia pulita e intuitiva basata su Tkinter + ttkbootstrap, perfetta per esplorare il mondo nascosto della steganografia.
 
-🛠️ Tecnologie Utilizzate
+Tecnologie Utilizzate
 🔹 Python 3.x 
 🔹 Tkinter + ttkbootstrap (GUI moderna e responsiva) 
 🔹 Pillow (gestione immagini) 
 🔹 stegano (steganografia LSB)
 
-🚀 Avvia il Progetto e Diventa un Maestro della Steganografia
-## 🔧 Requisiti
+## Requisiti
 Assicurati di avere Python 3 installato. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
 ```bash
 # Creazione di un ambiente virtuale
@@ -49,7 +48,7 @@ python main.py
 🕵️ Come Funziona la Steganografia?
 Nel mondo digitale, nascondere un segreto è più semplice di quanto sembri. La steganografia non modifica visibilmente un’immagine, ma inserisce informazioni nei pixel usando tecniche avanzate.
 
-💡 Esempio pratico in Python:
+Esempio pratico in Python:
 ```python
 from stegano import lsb
 
